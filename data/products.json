@@ -1,0 +1,22 @@
+[
+    {
+        "id" : 1,
+        "name" :"ball pen set",
+        "price":100
+    },
+    {
+        "id" : 2,
+        "name" :"headset",
+        "price":499
+    },
+    {
+        "id" : 3,
+        "name" :"mobile screen guard",
+        "price":415
+    },
+    {
+        "id" : 4,
+        "name" :"shagun",
+        "price":51
+    }
+]
